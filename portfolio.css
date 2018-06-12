@@ -1,0 +1,27 @@
+.row{   
+
+    background-color:#ADD8E6;
+    color:white;
+    font-size:20px;
+    align-items:center;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:#ADD8E6;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Inconsolata', monospace;
+}
+.aboutme{
+    border:1px solid black; 
+    
+}
+li{
+    display:inline;
+}
