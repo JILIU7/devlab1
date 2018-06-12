@@ -2,7 +2,7 @@
 
     background-color:#ADD8E6;
     color:white;
-    font-size:20px;
+    font-size:30px;
     align-items:center;
 }
 .headshot{
@@ -20,10 +20,17 @@
 }
 .aboutme{
     border:1px solid black; 
-    
-    
-    
+    display:flex;
+    justify-content:center;
+
 }
 li{
     display:inline;
+}
+
+#aboutMe{
+    margin-right: 50px;
+}
+#myWork{
+    margin-left: 50px;
 }
